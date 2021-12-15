@@ -1,1 +1,5 @@
 *.jpg
+*.png
+*.csv
+*.h5
+*.json
